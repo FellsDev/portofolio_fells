@@ -49,7 +49,7 @@ const ExperienceSection = () => {
 
           <div className="border-b border-gray-200 pb-6 mb-6">
             <div className="flex justify-between items-center">
-              <h3 className="text-lg font-semibold text-white">IT Support</h3>
+              <h3 className="text-lg font-semibold text-white">Student</h3>
               <span className="bg-blue-500 text-white text-2 px-3 py-1 rounded-full">
                 Full Time
               </span>
